@@ -15,7 +15,7 @@ I obtained a Dual Degree (B.Tech and M.Tech) in Computer Science from Indian Ins
 
 ### More Information
 
-My IBM Research page [Dushyant Behl](https://researcher.watson.ibm.com/researcher/view.php?person=in-dushyantbehl).
+My [IBM Research page](https://researcher.watson.ibm.com/researcher/view.php?person=in-dushyantbehl).
 
 ### Contact me
 
